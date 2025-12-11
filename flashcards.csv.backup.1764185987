@@ -1,0 +1,13 @@
+id,user_email,question,answer,collection,created_at
+1,elias.nystrom05@gmail.com,hur många fingrar på hand,5,Testcollection,2025-08-26 21:10:31
+2,test@gmail.com,Hur stor är dimensionen av en vektor i R^n?,n,Linjär algebra fortsättningskurs,2025-11-26 20:07:24
+3,test@gmail.com,"y=$x^2$
+A = $\bar{x}^T \cdot \bar{x}$",hahahha,Linjär algebra fortsättningskurs,2025-11-26 20:28:33
+4,test@gmail.com,"$$
+\begin{cases}
+    v' = -G \frac{(x-x_0) M}{((x-x_0)^2+(y-y_0)^2)^{\frac{3}{2}}} \\
+    u' = -G \frac{(y-y_0) M}{((x-x_0)^2+(y-y_0)^2)^{\frac{3}{2}}} \\
+    x' = v\\
+    y' = u
+    \end{cases}
+$$",Korrekt,Linjär algebra fortsättningskurs,2025-11-26 20:35:04
